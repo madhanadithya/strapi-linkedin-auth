@@ -187,12 +187,3 @@ You can find the source code and contribute to the project on GitHub: [strapi-li
 ### Contributing
 
 We welcome contributions to this plugin. If you have any improvements or bug fixes, please open an issue or submit a pull request on the GitHub repository.
-
-### Keywords
-
-- Strapi
-- LinkedIn
-- Social Login
-- OAuth 2.0
-- Authentication
-- Strapi Plugin
