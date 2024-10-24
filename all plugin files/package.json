@@ -1,10 +1,10 @@
 {
   "name": "strapi-linkedin-auth",
-  "version": "0.0.1",
-  "description": "This is the description of the plugin.",
+  "version": "0.0.2",
+  "description": " This plugin enables users to integrate Linked In social login using OpenId in strapi.",
   "strapi": {
     "name": "linkedin-auth",
-    "description": "Description of Linkedin Auth plugin",
+    "description": " This plugin enables users to integrate Linked In social login using OpenId in strapi. ",
     "kind": "plugin",
     "displayName": "Linkedin Auth"
   },
